@@ -1,0 +1,38 @@
+nav{
+    background-color: #222529;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+h3{
+    color: aliceblue;
+}
+
+.white-link{
+    color: aliceblue;
+}
+.grey-link{
+    color: #9B9C9F;
+}
+
+#dropdown{
+    background-color: #222529;
+    color: #9B9C9F;
+    border: none;
+}
+
+.dark-grey-link{
+    color: #818488;
+}
+
+button{
+    color: green;
+    border: 1px solid green;
+    background-color: #222529;
+    border-radius: 10%;
+}
